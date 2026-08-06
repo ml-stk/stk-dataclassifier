@@ -1,1 +1,1 @@
-# stk-dataclassifier
+# STK Data Classifier (Prood of Concept)
