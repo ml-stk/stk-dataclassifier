@@ -6,12 +6,12 @@ from scanning-engine.regex_worker import RegexClassifier
 classifier = RegexClassifier()
 
 st.set_page_config(
-    page_title="STK DataClassifier - Standalone",
+    page_title="STK DataClassifier - POC",
     page_icon="🛡️",
     layout="centered"
 )
 
-st.title("🛡️ STK DataClassifier (Standalone)")
+st.title("🛡️ STK DataClassifier (POC)")
 st.markdown("Run enterprise-grade pattern matching locally without requiring Docker or a VM.")
 
 # Input fields
