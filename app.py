@@ -1,6 +1,6 @@
 import streamlit as st
 import asyncio
-from scanning-engine.regex_worker import RegexClassifier
+from scanning_engine.regex_worker import RegexClassifier
 
 # Initialize classifier
 classifier = RegexClassifier()
