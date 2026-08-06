@@ -1,1 +1,1 @@
-# STK Data Classifier (Prood of Concept)
+# STK Data Classifier (Proof of Concept)
